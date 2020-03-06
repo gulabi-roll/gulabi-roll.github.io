@@ -1,0 +1,44 @@
+body {
+	background-color:#FFD3F5;
+}
+.name {
+	font-family:jostmedium !important;
+	font-size:64px;
+	color:black;
+	margin-top:60px;
+	text-align: center;
+}
+
+.no a{
+	font-family:jostheavy !important;
+	font-size:99px;
+	color: #FFD500 !important;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.yes a{
+	font-family:jostheavy !important;
+	font-size:99px;
+	color:#FF4D69 !important;
+	text-align: center;
+	margin-bottom:20px;
+	text-decoration: underline;
+}
+
+.date {
+	
+	font-family:jostmedium_italic !important;
+	font-size:30px;
+	color:#7E7E7E !important;
+	text-align: center;
+	margin-bottom:20px;
+}
+.title {
+	margin-top:100px;
+	font-family:jostmedium !important;
+	font-size:60px;
+	color:#00D17E !important;
+	text-align: center;
+	margin-bottom:20px;
+}

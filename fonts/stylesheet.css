@@ -1,0 +1,58 @@
+
+@font-face {
+    font-family: 'jostblack';
+    src: url('jost-900-black-webfont.woff2') format('woff2'),
+         url('jost-900-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'jostheavy';
+    src: url('jost-800-heavy-webfont.woff2') format('woff2'),
+         url('jost-800-heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'jostheavy_italic';
+    src: url('jost-800-heavyitalic-webfont.woff2') format('woff2'),
+         url('jost-800-heavyitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'jostmedium';
+    src: url('jost-500-medium-webfont.woff2') format('woff2'),
+         url('jost-500-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'jostmedium_italic';
+    src: url('jost-500-mediumitalic-webfont.woff2') format('woff2'),
+         url('jost-500-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
