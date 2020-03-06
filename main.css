@@ -14,7 +14,7 @@ body {
 
 .no a{
 	font-family:jostheavy !important;
-	font-size:99px;
+	font-size:80px;
 	color: #FFD500 !important;
 	text-align: center;
 	text-decoration: underline;
@@ -22,7 +22,7 @@ body {
 
 .yes a{
 	font-family:jostheavy !important;
-	font-size:99px;
+	font-size:80px;
 	color:#FF4D69 !important;
 	text-align: center;
 	margin-bottom:20px;
